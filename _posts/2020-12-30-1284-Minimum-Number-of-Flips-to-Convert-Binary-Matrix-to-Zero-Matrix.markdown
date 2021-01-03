@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix"
-date:   2020-12-20 18:13:49 -0700
+date:   2020-12-30 18:13:49 -0700
 categories: Leetcode Solution
 ---
 

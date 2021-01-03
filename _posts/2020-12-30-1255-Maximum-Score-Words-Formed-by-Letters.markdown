@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1255. Maximum Score Words Formed by Letters"
-date:   2020-12-20 21:04:00 -0700
+date:   2020-12-30 21:04:00 -0700
 categories: Leetcode Solution
 ---
 
