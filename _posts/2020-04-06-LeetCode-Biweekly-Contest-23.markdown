@@ -23,7 +23,7 @@ There is also a corner case, which is length of s is less than k.
 [***1401. Circle and Rectangle Overlapping***](https://leetcode.com/problems/circle-and-rectangle-overlapping/)
 <br><strong>Medium</strong>. Annoying at first but fun when I figure out a good method.
 <br>I don't know how everyone else is doing this, and there could be better ways. But my method is to partition the plane to nine parts using the rectangle.
-<img src="{{ base.url | prepend: site.url }}/MyAssets/LeetcodeBiweekly23/autodraw4_6_2020.png" width="460" height="345">
+<img src="{{ base.url | prepend: site.baseurl }}/MyAssets/LeetcodeBiweekly23/autodraw4_6_2020.png" width="460" height="345">
 <br>If the center of circle falls in 1, 3, 7 or 9, compute whether the corner is inside the circle.
 <br>If the center of circle falls in 2, 4, 6, or 8, computer whether center to edge is shorter than radius.
 <br>If the center cor circle falls in 5, then yes, they are overlapping.
